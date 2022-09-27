@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Babatems
+- 👋 Hi, I’m @Temiloluwa (aka Babatems)
 - 👀 I’m interested in coding, gaming and sports
 - 🌱 I’m currently learning Javascript and ReactJs
 - 💞️ I’m looking to collaborate on various projects and learn as i grow
